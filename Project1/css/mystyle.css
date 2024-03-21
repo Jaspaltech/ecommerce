@@ -1,0 +1,252 @@
+#a1 li {
+  display: inline;
+  align-items: center;
+}
+#a1 li a {
+  text-decoration: none;
+  padding-right: 20px;
+  color: white;
+  font-size: 18px;
+}
+#a1 {
+  list-style-type: none;
+  text-align: center;
+  padding-top: 16px;
+}
+.a1 img {
+  padding-top: 20px;
+}
+.abc {
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 0%;
+  height: 60px;
+  background-color: rgb(42, 40, 40);
+  clip-path: polygon(0 0, 100% 0, 96% 100%, 3% 100%);
+}
+#container {
+  background-image: url("../images/banner-bg.png");
+  height: 600px;
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+.con2 {
+  text-align: center;
+  padding-top: 30px;
+}
+.con3 {
+  display: flex;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.btn-secondary {
+  background-color: black;
+}
+.a2 {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.a3 {
+  padding-left: 30px;
+  width: 500px;
+  padding-top: 20px;
+}
+.a4 {
+  padding-top: 20px;
+  margin-left: -5px;
+}
+/* .a5{
+      margin-top: 21px;
+      background-color: white;
+      height: 35px;
+      width:120px;
+      margin-left: 20px;
+      border-radius:4px;
+      text-align: center;
+      padding-top: 4px;
+    } */
+.a6 {
+  margin-left: 20px;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+}
+.banner_taital {
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+  line-height: 100px;
+}
+.banner {
+  margin-top: 90px;
+}
+.b2 {
+  text-align: center;
+  width: 180px;
+  margin-left: 45%;
+  font-weight: bold;
+  height: 50px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 7px;
+}
+.heading {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 5px;
+}
+.col {
+  align-items: center;
+  border: 2px solid white;
+  padding-right: 30px;
+  text-align: center;
+
+  box-shadow: 0px 0 30px 10px #f0f0f0;
+  width: 200px;
+}
+.bottom {
+  display: flex;
+}
+.more {
+  float: right;
+  padding-left: 150px;
+}
+.footer {
+  margin-top: 50px;
+  background-color: #252525;
+  height: 400px;
+}
+.logo {
+  text-align: center;
+  padding-top: 60px;
+}
+.inp {
+  display: flex;
+  text-align: center;
+
+  padding-top: 40px;
+  border-bottom: 1px solid #ffffff !important;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+.i1 {
+}
+
+.mail {
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  border: none;
+  float: left;
+}
+
+.sub {
+  float: right;
+  padding-left: 100px;
+  color: orangered;
+}
+.menu {
+  color: white;
+}
+
+.u1 li {
+  display: inline;
+  padding-right: 20px;
+}
+.menu {
+  text-align: center;
+  margin-top: 20px;
+}
+.para {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+.para1 {
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  height: 30px;
+  top: 300px !important;
+}
+.mail::placeholder {
+  color: white;
+}
+.offcanvas-body a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 8px 8px 8px 32px;
+  display: block;
+}
+.carousel1 {
+  width: 100%;
+  /* Adjusted width to accommodate 4 items */
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+}
+
+.carousel1-container1 {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel1-item {
+  flex: 0 0 300px;
+  /* Adjusted item width to fit 4 items */
+  height: 500px;
+  margin-right: 10px;
+  background-color: #f0f0f0;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+}
+.carousel1-item img {
+  width: 100%;
+}
+.carousel1-item .img-parent {
+  height: 400px;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.arrow1 {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.left-arrow1 {
+  left: 0;
+  display: none;
+}
+
+.right-arrow1 {
+  right: 0;
+}
+.row h3,
+.row p {
+  text-align: center;
+}
+.row img {
+  display: block;
+  margin: auto;
+}
+.row .bottom {
+  justify-content: center;
+}

@@ -1,0 +1,52 @@
+@media only screen and (max-width: 600px) {
+  .abc {
+    display: none;
+  }
+
+  .a2 {
+    display: none;
+  }
+  .a5 {
+    display: none;
+  }
+  .a1 img {
+    padding-left: 10px;
+  }
+  .roundbutton span {
+    display: none;
+  }
+  .roundbutton {
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+  }
+
+  .roundbutton i {
+    position: relative;
+    top: 5px;
+    left: 10px;
+  }
+  .banner_taital {
+    font-size: 21px;
+    line-height: 40px;
+  }
+  .b2 {
+    margin-left: 28%;
+  }
+  .neckl {
+    display: block;
+  }
+}
+@media (min-width: 600px) {
+  .row .col-six {
+    width: 50%;
+  }
+}
+@media (min-width: 1200px) {
+  .row .col-twelve {
+    width: 25%;
+  }
+}

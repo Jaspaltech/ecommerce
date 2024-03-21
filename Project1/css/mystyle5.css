@@ -1,0 +1,20 @@
+.neckl {
+  display: flex;
+}
+.price {
+  display: flex;
+}
+.btn.btn-primary {
+  background-color: #0d6efd;
+  width: 500px;
+  border-radius: 10px;
+}
+.btn.btn-outline-primary {
+  border-color: blue;
+  width: 500px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.variety {
+  text-align: center;
+}

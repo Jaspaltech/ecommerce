@@ -1,0 +1,28 @@
+.mail1 {
+  display: flex;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: 20px;
+}
+.form1 {
+  display: flex;
+}
+.inp1 {
+  padding-right: 10px;
+}
+.form {
+  padding-left: 40px;
+  height: 400px;
+}
+.write {
+  padding-top: 20px;
+  width: 580px;
+}
+.btn.btn-danger {
+  width: 200px;
+  margin-top: 20px;
+}
+.map {
+  padding-left: 130px;
+  padding-right: 100px;
+}
